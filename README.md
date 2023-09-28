@@ -7,3 +7,4 @@
 - 操作系统:[OS](./OS/OS.md)
 - MySq数据库：[MySql](./sql/sql.md)
 - STL标准库：[STL](./STL/)
+- 问题解决: [问题解决](./solve/solve.md)
